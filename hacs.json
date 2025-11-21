@@ -1,0 +1,12 @@
+{
+  "name": "Aggreg8 Home Assistant Integration",
+  "content_in_root": false,
+  "domains": [
+    "aggreg8"
+  ],
+  "country": [
+    "hu",
+    "eu"
+  ],
+  "render_readme": true
+}
